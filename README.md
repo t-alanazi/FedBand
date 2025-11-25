@@ -3,6 +3,7 @@
 Official PyTorch implementation of the paper:
 
 **FedBand: Adaptive Federated Learning Under Strict Bandwidth Constraints**  
+https://ieeexplore.ieee.org/document/11133779
 Taghreed Al-anazi et al., ICCCN 2025
 
 ---
