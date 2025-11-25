@@ -7,7 +7,7 @@ Taghreed Al-anazi et al., ICCCN 2025
 
 ---
 
-## 📌 Overview
+## Overview
 
 FedBand is a communication-efficient Federated Learning (FL) framework that dynamically allocates **per-client compression budgets** based on model behavior (validation loss or gradient norm).
 
@@ -24,7 +24,7 @@ This repository includes:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/t-alanazi/FedBand.git
