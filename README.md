@@ -32,10 +32,7 @@ cd FedBand
 pip install -r requirements.txt
 
 ## Run CIFAR-10
-
-```bash
 python3 -m fedband.run_cifar10
 
 ## Run UTMobileNet2021
-```bash
 python3 -m fedband.run_utmobilenet --base_path /path/to/data
