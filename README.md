@@ -15,8 +15,8 @@ The method enforces a **global bandwidth constraint** each round while maximizin
 
 This repository includes:
 
-- CIFAR-10 experiments  
-- UTMobileNetTraffic2021 experiments  
+- CIFAR-10 images experiments  
+- UTMobileNet2021 trafic experiments  
 - Dynamic bandwidth allocation  
 - Top-k / sparse update compression  
 - Cache-based compression re-use  
@@ -30,3 +30,12 @@ This repository includes:
 git clone https://github.com/t-alanazi/FedBand.git
 cd FedBand
 pip install -r requirements.txt
+
+## Run CIFAR-10
+
+```bash
+python3 -m fedband.run_cifar10
+
+## Run UTMobileNet2021
+```bash
+python3 -m fedband.run_utmobilenet --base_path /path/to/data
