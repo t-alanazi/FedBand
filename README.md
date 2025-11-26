@@ -17,11 +17,10 @@ The method enforces a **global bandwidth constraint** each round while maximizin
 
 This repository includes:
 
-- CIFAR-10 images experiments  
-- UTMobileNet2021 trafic experiments  
+- CIFAR-10 images classification experiments  
+- UTMobileNet2021 trafic classification experiments  
 - Dynamic bandwidth allocation  
 - Top-k / sparse update compression  
-- Cache-based compression re-use  
 - Fairness & per-client metrics  
 
 ---
